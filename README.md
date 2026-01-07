@@ -1,7 +1,7 @@
 # Arduino menu with SSD1306
 **This so small menu absolutly worked on SSD1306**
 
-![SSD1306 screen with menu](https://mega.nz/file/CJ9yiYjT#i40Ffons8QVvP3qvjXiftcJy3nkvx-UOK1c_tItkzMY)
+![SSD1306 screen with menu](/ForReadme/SCREEN.jpg "Photo of the screen")
 ## Included/Headers
 
 **For this arduino menu need:**
@@ -26,4 +26,4 @@
 
 ## Photo with all project
 
-![Arduino and breadboard working](https://mega.nz/file/WYcxDA7S#j8ONJIxIV4Un7wSj-0d7kBU6OqiWbl1cS7khcD3ZABQ)
+![Arduino and breadboard working](/ForReadme/ALLARDUINO.jpg)
